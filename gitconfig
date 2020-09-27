@@ -49,3 +49,5 @@
 [user]
 	email = deborah.bpc@gmail.com
 	name = Deborah Carvalho
+[credential]
+	helper = store
